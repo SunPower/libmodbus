@@ -1,0 +1,1 @@
+/home/naris/spwr-linux_sdk/tmp/sysroots/x86_64/usr/share/libtool/build-aux/ltmain.sh

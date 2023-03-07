@@ -1,0 +1,1 @@
+/home/naris/spwr-linux_sdk/tmp/sysroots/x86_64/usr/share/aclocal/libtool.m4
